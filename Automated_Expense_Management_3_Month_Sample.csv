@@ -1,0 +1,408 @@
+Employee ID,Employee Name,Designation,Department,Expense Date,Category,Amount,Payment Mode,Purpose,Voucher Number,Project / Cost Centre,Approval Status
+EMP017,Shabir,Software Developer,IT,05/09/2026,Travel,710,Card,Airport transfer for business trip,VCH2187,PRJ-FIN-02,Approved
+EMP020,Jeffin,Systems Analyst,IT,21/10/2026,Software,1999,Card,,VCH2368,PRJ-IT-05,Pending
+EMP018,Hrishikesh,HR Analyst,HR,15/09/2026,Fuel,880,Cash,Fuel for business travel,VCH2191,CC-HR-02,Approved
+EMP033,Bala,Admin Assistant,Administration,28/10/2026,Meals,1050,Bank Transfer,Refreshments for team meeting,VCH2357,PRJ-FIN-01,Approved
+EMP032,Namitha,Marketing Analyst,Marketing,23/10/2026,Internet,1789,UPI,Internet access for online meetings,VCH2353,CC-FIN-03,Pending
+EMP032,Namitha,Marketing Analyst,Marketing,17/09/2026,Training,5470,Bank Transfer,Professional development course,VCH2241,CC-FIN-03,Rejected
+EMP017,Shabir,Software Developer,IT,27/08/2026,Fuel,1990,UPI,Fuel for travel between office locations,VCH2058,CC-FIN-03,Rejected
+EMP002,Devika.M,HR Executive,HR,18/09/2026,Printing,2170,Card,Printing office documents,VCH2136,PRJ-FIN-01,Approved
+EMP013,Amit,Accountant,Finance,12/10/2026,Accommodation,4420,Bank Transfer,Hotel stay during official travel,VCH2293,PRJ-SAL-01,Pending
+EMP007,Shahla,Finance Associate,Finance,06/10/2026,Communication,900,Card,Business phone recharge,VCH2271,CC-HR-01,Rejected
+EMP025,Divya,Content Associate,Marketing,25/08/2026,Training,1120,Bank Transfer,Excel training for office work,VCH2093,CC-HR-02,Approved
+EMP018,Hrishikesh,HR Analyst,HR,20/10/2026,Meals,1320,Cash,Lunch during client meeting,VCH2311,CC-FIN-03,Approved
+EMP001,Hridhya,Analyst,Finance,12/10/2026,Meals,530,Cash,Dinner during late working hours,VCH2249,CC-OPS-01,Approved
+EMP009,Karunya,Project Coordinator,Operations,03/09/2026,Accommodation,4890,Bank Transfer,Hotel stay for client meeting,VCH2159,PRJ-IT-03,Approved
+EMP016,Ajmal,Operations Associate,Operations,24/09/2026,Communication,1520,UPI,Mobile charges for official calls,VCH2184,CC-FIN-03,Pending
+EMP008,Jeslin,HR Coordinator,HR,12/08/2026,Software,1810,Bank Transfer,Software licence for office tasks,VCH2023,CC-MKT-01,Approved
+EMP018,Hrishikesh,HR Analyst,HR,09/09/2026,Printing,2680,Bank Transfer,Printing project reports,VCH2190,CC-MKT-01,Approved
+EMP018,Hrishikesh,HR Analyst,HR,18/10/2026,Meals,0,Cash,Refreshments for team meeting,VCH2365,CC-HR-03,Pending
+EMP001,Hridhya,Analyst,Finance,15/09/2026,Printing,1940,Cash,Printing project reports,VCH2132,CC-MKT-01,Pending
+EMP027,Basil,IT Executive,IT,07/10/2026,Meals,1400,Card,Lunch during client meeting,VCH2335,CC-MKT-02,Approved
+EMP019,Abhishek,Finance Executive,Finance,20/09/2026,Training,2600,Bank Transfer,Professional development course,,PRJ-FIN-04,Approved
+EMP002,Devika.M,HR Executive,HR,07/10/2026,Office Supplies,2170,Card,Folders and files for record keeping,VCH2255,PRJ-IT-01,Approved
+EMP014,Bilal,Sales Associate,Sales,20/08/2026,Meals,450,Card,Meal during official travel,VCH2046,CC-MKT-01,Approved
+EMP016,Ajmal,Operations Associate,Operations,10/09/2026,Accommodation,4090,UPI,Hotel stay during official travel,VCH2182,PRJ-SAL-03,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,22/08/2026,Meals,560,UPI,Team lunch during office work,VCH2369,CC-HR-04,Approved
+EMP005,Ajas,Operations Executive,Operations,22/09/2026,Communication,860,Bank Transfer,Communication expenses for client coordination,VCH2147,CC-MKT-01,Approved
+EMP033,Bala,Admin Assistant,Administration,06/08/2026,Communication,1210,Bank Transfer,Business phone recharge,VCH2121,CC-HR-01,Approved
+EMP013,Amit,Accountant,Finance,24/09/2026,Fuel,1840,Bank Transfer,Fuel used during client visit,VCH2172,PRJ-FIN-01,Approved
+EMP008,Jeslin,HR Coordinator,HR,25/10/2026,Training,6710,Cash,Professional development course,VCH2279,PRJ-SAL-01,Approved
+EMP019,Abhishek,Finance Executive,Finance,20/09/2026,Fuel,3160,Cash,Fuel used during client visit,VCH2195,PRJ-FIN-02,Pending
+EMP001,Hridhya,Analyst,Finance,02/10/2026,Communication,490,Bank Transfer,Business phone recharge,VCH2248,CC-OPS-01,Approved
+EMP015,Ajith,IT Support Executive,IT,28/09/2026,Training,2330,UPI,Technical workshop for project skills,VCH2180,CC-OPS-02,Approved
+EMP004,Divya Dharshini,Sales Executive,Sales,27/10/2026,Software,3800,Card,Security software for work computer,VCH2261,PRJ-IT-02,Pending
+EMP028,Parvathi,Office Administrator,Administration,19/08/2026,Training,8190,Bank Transfer,Excel training for office work,VCH2102,CC-MKT-01,Approved
+EMP005,Ajas,Operations Executive,Operations,07/10/2026,Software,3600,UPI,Security software for work computer,VCH2262,PRJ-SAL-02,Rejected
+EMP006,Rushda,Marketing Associate,Marketing,10/10/2026,Accommodation,3880,Cash,Accommodation for outstation site visit,VCH2267,PRJ-IT-03,Approved
+EMP015,Ajith,IT Support Executive,IT,06/08/2026,Printing,240,UPI,Printing forms for office use,VCH2049,CC-FIN-03,Pending
+EMP029,Albin,Logistics Coordinator,Operations,24/10/2026,Travel,1360,Bank Transfer,Train fare for official work,VCH2344,PRJ-FIN-01,Approved
+EMP019,Abhishek,Finance Executive,Finance,20/09/2026,Fuel,3160,Cash,Fuel for official site visit,VCH2195,PRJ-FIN-02,Pending
+EMP022,Nandana,Admin Executive,Administration,09/09/2026,Communication,240,Cash,Mobile charges for official calls,VCH2204,CC-HR-02,Approved
+EMP024,Bhavana,Project Analyst,Operations,20/09/2026,Internet,1039,Card,Internet recharge for remote work,VCH2212,CC-HR-02,Approved
+EMP020,Jeffin,Systems Analyst,IT,11/09/2026,Communication,1270,Cash,Communication expenses for client coordination,VCH2198,PRJ-FIN-02,Pending
+EMP026,Emi,Accounts Assistant,Finance,23/08/2026,Printing,1920,UPI,Printing forms for office use,VCH2097,PRJ-SAL-03,Approved
+EMP023,Nandhana,Training Coordinator,HR,24/10/2026,Printing,1325,Card,Printing office documents,VCH2371,CC-MKT-03,Unknown
+EMP009,Karunya,Project Coordinator,Operations,02/10/2026,Training,5850,Bank Transfer,Job-related skills training,VCH2280,PRJ-SAL-02,Pending
+EMP003,Sarika,Software Developer,IT,10/10/2026,Software,3740,UPI,Software licence for office tasks,VCH2258,CC-HR-01,Pending
+EMP019,Abhishek,Finance Executive,Finance,08/09/2026,Internet,1139,Cash,Internet access for online meetings,VCH2193,PRJ-FIN-01,Approved
+EMP033,Bala,Admin Assistant,Administration,14/09/2026,Meals,1280,Card,Lunch during client meeting,VCH2243,CC-MKT-01,Approved
+EMP026,Emi,Accounts Assistant,Finance,08/09/2026,Accommodation,3780,Cash,Hotel stay during official travel,VCH2220,PRJ-SAL-02,Rejected
+EMP006,Rushda,Marketing Associate,Marketing,10/10/2026,Accommodation,3880,Cash,Hotel stay during official travel,VCH2267,PRJ-IT-03,Approved
+EMP007,Shahla,Finance Associate,Finance,24/08/2026,Fuel,3410,Card,Fuel for official site visit,VCH2020,CC-OPS-01,Pending
+EMP014,Bilal,Sales Associate,Sales,26/08/2026,Travel,720,Bank Transfer,Travel for client meeting,VCH2048,PRJ-FIN-01,Approved
+EMP022,Nandana,Admin Executive,Administration,15/09/2026,Meals,1470,Bank Transfer,Team lunch during office work,VCH2206,PRJ-SAL-02,Approved
+EMP025,Divya,Content Associate,Marketing,25/08/2026,Training,1120,Bank Transfer,Excel training for office work,VCH2093,CC-HR-02,Approved
+EMP024,Bhavana,Project Analyst,Operations,18/10/2026,Communication,910,Cash,Courier of work-related documents,VCH2326,CC-MKT-01,Pending
+EMP018,Hrishikesh,HR Analyst,HR,04/08/2026,Printing,1170,Cash,Printing office documents,VCH2060,CC-MKT-02,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,14/08/2026,Travel,4090,UPI,Airport transfer for business trip,VCH2071,PRJ-SAL-01,Approved
+EMP016,Ajmal,Operations Associate,Operations,04/10/2026,Software,5190,Cash,Work-related application subscription,VCH2302,PRJ-FIN-01,Pending
+EMP022,Nandana,Admin Executive,Administration,25/10/2026,Office Supplies,1320,Cash,Printer paper for office documents,VCH2322,CC-MKT-01,Approved
+EMP022,Nandana,Admin Executive,Administration,28/08/2026,Accommodation,6050,UPI,Hotel stay for client meeting,VCH2079,PRJ-SAL-03,Approved
+EMP034,Anna,Business Development Associate,Sales,14/10/2026,Internet,1529,Cash,Internet access for online meetings,VCH2361,CC-HR-02,Approved
+EMP003,Sarika,Software Developer,IT,13/08/2026,Office Supplies,2120,Cash,Printer paper for office documents,VCH2008,PRJ-SAL-03,Approved
+EMP008,Jeslin,HR Coordinator,HR,12/10/2026,Printing,2780,Bank Transfer,Printing training materials,VCH2277,PRJ-SAL-03,Rejected
+EMP006,Rushda,Marketing Associate,Marketing,23/09/2026,Office Supplies,1730,Cash,Folders and files for record keeping,VCH2151,CC-OPS-02,Approved
+EMP015,Ajith,IT Support Executive,IT,26/09/2026,Accommodation,2480,UPI,Hotel stay for client meeting,VCH2179,CC-HR-02,Approved
+EMP013,Amit,Accountant,Finance,23/08/2026,Software,4070,UPI,Work-related application subscription,VCH2044,CC-OPS-01,Approved
+EMP025,Divya,Content Associate,Marketing,02/10/2026,Printing,2880,Cash,Printing training materials,VCH2328,PRJ-FIN-02,Approved
+EMP025,Divya,Content Associate,Marketing,12/10/2026,Printing,1140,Bank Transfer,Printing forms for office use,VCH2329,PRJ-SAL-03,Approved
+EMP030,Ashmin,Customer Support Executive,Customer Support,20/09/2026,Printing,2110,Cash,Printing project reports,VCH2235,CC-OPS-01,Pending
+EMP025,Divya,Content Associate,Marketing,06/08/2026,Communication,390,Card,Communication expenses for client coordination,VCH2089,CC-HR-02,Approved
+EMP034,Anna,Business Development Associate,Sales,02/08/2026,Internet,1799,Card,Internet recharge for remote work,VCH2126,CC-HR-01,Pending
+EMP004,Divya Dharshini,Sales Executive,Sales,21/08/2026,Training,5100,Cash,Job-related skills training,VCH2012,PRJ-SAL-01,Rejected
+EMP016,Ajmal,Operations Associate,Operations,28/08/2026,Printing,390,Bank Transfer,Printing training materials,VCH2055,PRJ-SAL-01,Pending
+EMP004,Divya Dharshini,Sales Executive,Sales,21/09/2026,Internet,979,UPI,Home internet used for work,VCH2141,CC-HR-02,Pending
+EMP008,Jeslin,HR Coordinator,HR,11/09/2026,Meals,1370,UPI,Refreshments for team meeting,VCH2155,PRJ-IT-01,Rejected
+EMP006,Rushda,Marketing Associate,Marketing,10/10/2026,Accommodation,3880,Cash,Accommodation for outstation site visit,VCH2267,PRJ-IT-03,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,23/08/2026,Fuel,3340,Cash,Fuel used during client visit,VCH2074,PRJ-SAL-02,Pending
+EMP002,Devika.M,HR Executive,HR,07/08/2026,Fuel,2440,Card,Fuel for travel between office locations,VCH2003,PRJ-SAL-02,Approved
+EMP034,Anna,Business Development Associate,Sales,13/10/2026,Software,4480,Cash,Software used for project work,VCH2360,CC-HR-02,Approved
+EMP031,Vismaya,Training Associate,HR,02/08/2026,Meals,710,Card,Team lunch during office work,VCH2112,CC-OPS-02,Approved
+EMP023,Nandhana,Training Coordinator,HR,21/09/2026,Communication,500,Cash,Communication expenses for client coordination,VCH2210,CC-FIN-03,Approved
+EMP028,Parvathi,Office Administrator,Administration,02/09/2026,Travel,1880,UPI,Local travel between office locations,VCH2226,PRJ-IT-01,Approved
+EMP016,Ajmal,Operations Associate,Operations,07/10/2026,Internet,889,Card,Home internet used for work,VCH2303,PRJ-SAL-03,Approved
+EMP030,Ashmin,Customer Support Executive,Customer Support,17/10/2026,Printing,1110,UPI,Printing forms for office use,VCH2347,PRJ-IT-02,Approved
+EMP001,Hridhya,Analyst,Finance,18/09/2026,Communication,1580,Bank Transfer,Mobile charges for official calls,VCH2133,CC-HR-01,Approved
+EMP027,Basil,IT Executive,IT,07/08/2026,Meals,790,Bank Transfer,Lunch during client meeting,VCH2099,PRJ-IT-02,Pending
+EMP029,Albin,Logistics Coordinator,Operations,07/08/2026,Internet,1739,Cash,Home internet used for work,VCH2104,PRJ-SAL-03,Approved
+EMP017,Shabir,Software Developer,IT,26/08/2026,Meals,890,Cash,Meal during official travel,VCH2057,PRJ-FIN-02,Pending
+EMP024,Bhavana,Project Analyst,Operations,07/10/2026,Travel,960,Cash,Airport transfer for business trip,VCH2325,PRJ-SAL-03,Rejected
+EMP032,Namitha,Marketing Analyst,Marketing,28/10/2026,Travel,1310,Card,Cab fare for site visit,VCH2354,CC-FIN-03,Approved
+EMP028,Parvathi,Office Administrator,Administration,22/08/2026,Meals,670,Cash,Lunch during client meeting,VCH2103,CC-MKT-02,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,07/08/2026,Printing,2730,Bank Transfer,Printing training materials,VCH2070,PRJ-IT-03,Pending
+EMP023,Nandhana,Training Coordinator,HR,10/08/2026,Accommodation,2090,Bank Transfer,Accommodation during work-related training,VCH2081,CC-OPS-02,Pending
+EMP031,Vismaya,Training Associate,HR,20/08/2026,Communication,1300,Cash,Phone and data charges for office work,VCH2114,PRJ-SAL-01,Approved
+EMP007,Shahla,Finance Associate,Finance,09/08/2026,Fuel,1210,UPI,Fuel for official site visit,VCH2019,CC-MKT-01,Pending
+EMP028,Parvathi,Office Administrator,Administration,12/09/2026,Travel,1710,Bank Transfer,Cab fare for site visit,VCH2227,PRJ-IT-01,Pending
+EMP017,Shabir,Software Developer,IT,11/10/2026,Fuel,1890,UPI,Fuel for business travel,VCH2308,CC-FIN-03,Rejected
+EMP006,Rushda,Marketing Associate,Marketing,10/09/2026,Accommodation,4730,Card,Hotel stay during official travel,VCH2150,PRJ-IT-01,Approved
+EMP030,Ashmin,Customer Support Executive,Customer Support,10/08/2026,Communication,230,Card,Courier of work-related documents,VCH2109,PRJ-IT-01,Approved
+EMP011,Meera,Graphic Designer,Marketing,03/09/2026,Travel,500,Cash,Local travel between office locations,VCH2165,PRJ-IT-03,Pending
+EMP003,Sarika,Software Developer,IT,05/09/2026,Printing,990,UPI,Printing office documents,VCH2138,PRJ-IT-01,Rejected
+EMP009,Karunya,Project Coordinator,Operations,21/09/2026,Travel,1800,Bank Transfer,Train fare for official work,VCH2160,CC-HR-02,Approved
+EMP016,Ajmal,Operations Associate,Operations,26/10/2026,Software,1930,Bank Transfer,Software used for project work,VCH2305,CC-FIN-03,Approved
+EMP016,Ajmal,Operations Associate,Operations,06/08/2026,Software,4720,UPI,Software used for project work,VCH2053,CC-MKT-02,Rejected
+EMP031,Vismaya,Training Associate,HR,12/10/2026,Office Supplies,910,UPI,Notebooks and pens for office use,VCH2349,CC-HR-02,Approved
+EMP020,Jeffin,Systems Analyst,IT,03/09/2026,Meals,1210,UPI,Working lunch for project discussion,VCH2197,PRJ-IT-03,Pending
+EMP004,Divya Dharshini,Sales Executive,Sales,23/09/2026,Meals,1310,Card,Dinner during late working hours,VCH2142,CC-FIN-03,Approved
+EMP020,Jeffin,Systems Analyst,IT,22/08/2026,Travel,480,Card,Airport transfer for business trip,VCH2069,PRJ-SAL-02,Pending
+EMP001,Hridhya,Analyst,Finance,24/08/2026,Fuel,740,Bank Transfer,Fuel for business travel,VCH2002,PRJ-FIN-01,Approved
+EMP018,Hrishikesh,HR Analyst,HR,14/08/2026,Fuel,3050,Card,Fuel used during client visit,VCH2061,PRJ-FIN-02,Approved
+EMP028,Parvathi,Office Administrator,Administration,09/10/2026,Accommodation,2800,Bank Transfer,Overnight stay for official project work,VCH2337,CC-FIN-03,Approved
+EMP017,Shabir,Software Developer,IT,09/10/2026,Travel,3660,UPI,Airport transfer for business trip,VCH2307,CC-MKT-01,Approved
+EMP010,Devika Das,Business Analyst,Finance,16/08/2026,Printing,1130,Cash,Printing forms for office use,VCH2032,PRJ-SAL-01,Pending
+EMP032,Namitha,Marketing Analyst,Marketing,27/09/2026,Training,2910,Bank Transfer,Compliance training for employees,VCH2242,CC-OPS-01,Rejected
+EMP027,Basil,IT Executive,IT,17/08/2026,Accommodation,6820,Bank Transfer,Accommodation during work-related training,VCH2100,CC-HR-02,Approved
+EMP018,Hrishikesh,HR Analyst,HR,20/08/2026,Fuel,1880,Bank Transfer,Fuel for travel between office locations,VCH2063,PRJ-FIN-02,Pending
+EMP012,Diya,Software Tester,IT,06/09/2026,Travel,890,Bank Transfer,Airport transfer for business trip,VCH2170,CC-HR-02,Pending
+EMP013,Amit,Accountant,Finance,26/09/2026,Accommodation,5910,Bank Transfer,Hotel stay for client meeting,VCH2173,CC-HR-02,Approved
+EMP033,Bala,Admin Assistant,Administration,27/10/2026,Meals,1460,Cash,Lunch during client meeting,VCH2356,CC-HR-02,Approved
+EMP006,Rushda,Marketing Associate,Marketing,20/08/2026,Meals,860,Cash,Working lunch for project discussion,VCH2018,CC-MKT-01,Approved
+EMP033,Bala,Admin Assistant,Administration,17/08/2026,Training,3580,Cash,Technical workshop for project skills,VCH2124,PRJ-IT-01,Approved
+EMP034,Anna,Business Development Associate,Sales,25/08/2026,Internet,1699,Cash,Internet access for online meetings,VCH2130,PRJ-SAL-03,Approved
+EMP025,Divya,Content Associate,Marketing,12/09/2026,Software,2160,Card,Software used for project work,VCH2218,CC-MKT-02,Approved
+EMP005,Ajas,Operations Executive,Operations,05/08/2026,Fuel,3050,Cash,Fuel for business travel,VCH2014,PRJ-SAL-02,Approved
+EMP013,Amit,Accountant,Finance,22/08/2026,Communication,350,UPI,Communication expenses for client coordination,VCH2043,PRJ-SAL-01,Approved
+EMP008,Jeslin,HR Coordinator,HR,28/09/2026,Training,2100,Card,Job-related skills training,VCH2158,PRJ-FIN-01,Approved
+EMP024,Bhavana,Project Analyst,Operations,26/09/2026,Meals,970,Bank Transfer,Lunch during client meeting,VCH2214,PRJ-SAL-03,Approved
+EMP011,Meera,Graphic Designer,Marketing,20/09/2026,Training,8920,Card,Excel training for office work,VCH2167,CC-MKT-01,Pending
+EMP020,Jeffin,Systems Analyst,IT,11/09/2026,Communication,1270,Cash,Mobile charges for official calls,VCH2198,PRJ-FIN-02,Pending
+EMP011,Meera,Graphic Designer,Marketing,07/10/2026,Printing,2760,Bank Transfer,Printing forms for office use,VCH2287,CC-MKT-02,Approved
+EMP010,Devika Das,Business Analyst,Finance,18/10/2026,Communication,1570,Card,Communication expenses for client coordination,VCH2284,PRJ-FIN-01,Approved
+EMP010,Devika Das,Business Analyst,Finance,16/10/2026,Communication,860,Bank Transfer,Phone and data charges for office work,VCH2282,CC-OPS-01,Approved
+EMP034,Anna,Business Development Associate,Sales,21/08/2026,Meals,1360,UPI,Meal during official travel,VCH2129,CC-HR-01,Rejected
+EMP033,Bala,Admin Assistant,Administration,15/08/2026,Accommodation,4750,Bank Transfer,Overnight stay for official project work,VCH2123,PRJ-FIN-01,Approved
+EMP018,Hrishikesh,HR Analyst,HR,22/10/2026,Travel,4490,Card,Airport transfer for business trip,VCH2312,PRJ-IT-02,Approved
+EMP017,Shabir,Software Developer,IT,28/08/2026,Software,6440,Cash,Software used for project work,VCH2059,CC-HR-02,Approved
+EMP020,Jeffin,Systems Analyst,IT,28/09/2026,Training,3260,Cash,Job-related skills training,VCH2200,CC-HR-02,Approved
+EMP026,Emi,Accounts Assistant,Finance,14/08/2026,Internet,1549,Card,Home internet used for work,VCH2096,PRJ-SAL-02,Approved
+EMP032,Namitha,Marketing Analyst,Marketing,13/09/2026,Internet,1309,UPI,Home internet used for work,VCH2240,CC-OPS-01,Approved
+EMP017,Shabir,Software Developer,IT,26/08/2026,Meals,890,Cash,Meal during official travel,VCH2057,PRJ-FIN-02,Pending
+EMP024,Bhavana,Project Analyst,Operations,13/08/2026,Travel,2040,Card,Local travel between office locations,VCH2086,PRJ-IT-01,Rejected
+EMP013,Amit,Accountant,Finance,11/08/2026,Accommodation,5030,UPI,Hotel stay for client meeting,VCH2042,CC-HR-01,Approved
+EMP025,Divya,Content Associate,Marketing,09/08/2026,Internet,1359,Bank Transfer,Internet access for online meetings,VCH2090,PRJ-SAL-01,Approved
+EMP031,Vismaya,Training Associate,HR,27/10/2026,Accommodation,6240,Cash,Overnight stay for official project work,VCH2351,PRJ-SAL-03,Rejected
+EMP019,Abhishek,Finance Executive,Finance,15/10/2026,Travel,2570,Card,Train fare for official work,VCH2314,PRJ-FIN-02,Approved
+EMP015,Ajith,IT Support Executive,IT,04/09/2026,Fuel,1400,Bank Transfer,Fuel for official site visit,VCH2176,CC-FIN-03,Approved
+EMP004,Divya Dharshini,Sales Executive,Sales,25/10/2026,Travel,4500,UPI,Airport transfer for business trip,VCH2260,PRJ-IT-03,Approved
+EMP015,Ajith,IT Support Executive,IT,15/08/2026,Software,6080,UPI,Work-related application subscription,VCH2050,PRJ-SAL-02,Approved
+EMP022,Nandana,Admin Executive,Administration,10/09/2026,Accommodation,2180,UPI,Overnight stay for official project work,VCH2205,PRJ-SAL-03,Approved
+EMP026,Emi,Accounts Assistant,Finance,24/08/2026,Accommodation,3970,Cash,Hotel stay during official travel,VCH2098,CC-OPS-01,Approved
+EMP029,Albin,Logistics Coordinator,Operations,08/09/2026,Communication,1470,UPI,Mobile charges for official calls,VCH2231,PRJ-IT-02,Approved
+EMP002,Devika.M,HR Executive,HR,04/10/2026,Training,7830,Cash,Compliance training for employees,VCH2253,PRJ-IT-02,Approved
+EMP026,Emi,Accounts Assistant,Finance,06/08/2026,Communication,780,Cash,Business phone recharge,VCH2095,PRJ-SAL-03,Rejected
+EMP030,Ashmin,Customer Support Executive,Customer Support,01/08/2026,Accommodation,6700,Bank Transfer,Accommodation during work-related training,VCH2107,PRJ-IT-03,Rejected
+EMP013,Amit,Accountant,Finance,27/10/2026,Meals,1230,Cash,Team lunch during office work,VCH2296,CC-HR-02,Pending
+EMP003,Sarika,Software Developer,IT,12/08/2026,Communication,1020,Card,Communication expenses for client coordination,VCH2007,CC-HR-02,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,24/09/2026,Communication,490,UPI,Communication expenses for client coordination,VCH2202,PRJ-IT-01,Approved
+EMP004,Divya Dharshini,Sales Executive,Sales,15/08/2026,Fuel,1420,Cash,Fuel for travel between office locations,VCH2011,PRJ-SAL-01,Pending
+EMP026,Emi,Accounts Assistant,Finance,23/08/2026,Printing,1920,UPI,Printing forms for office use,VCH2097,PRJ-SAL-03,Approved
+EMP030,Ashmin,Customer Support Executive,Customer Support,01/09/2026,Office Supplies,1610,Bank Transfer,Notebooks and pens for office use,VCH2232,CC-OPS-02,Pending
+EMP015,Ajith,IT Support Executive,IT,24/08/2026,Travel,2080,Card,Train fare for official work,VCH2052,CC-OPS-02,Approved
+EMP016,Ajmal,Operations Associate,Operations,08/08/2026,Printing,1470,Cash,Printing materials for team presentation,VCH2054,PRJ-IT-01,Pending
+EMP025,Divya,Content Associate,Marketing,17/09/2026,Printing,2060,Card,Printing forms for office use,VCH2219,PRJ-SAL-02,Approved
+EMP034,Anna,Business Development Associate,Sales,12/10/2026,Office Supplies,1970,UPI,Stationery for daily office work,VCH2359,CC-MKT-01,Approved
+EMP023,Nandhana,Training Coordinator,HR,01/08/2026,Printing,2340,Card,Printing forms for office use,VCH2080,PRJ-SAL-01,Approved
+EMP022,Nandana,Admin Executive,Administration,06/08/2026,Internet,1029,Cash,Internet recharge for remote work,VCH2075,CC-HR-01,Approved
+EMP022,Nandana,Admin Executive,Administration,15/08/2026,Internet,1519,UPI,Home internet used for work,VCH2076,CC-MKT-01,Approved
+EMP015,Ajith,IT Support Executive,IT,06/10/2026,Travel,2280,Bank Transfer,Travel for client meeting,VCH2299,CC-FIN-03,Pending
+EMP016,Ajmal,Operations Associate,Operations,20/09/2026,Meals,890,Card,Working lunch for project discussion,VCH2183,PRJ-SAL-03,Approved
+EMP001,Hridhya,Analyst,Finance,05/09/2026,Printing,1170,Card,Printing project reports,VCH2131,CC-MKT-01,Pending
+EMP022,Nandana,Admin Executive,Administration,16/08/2026,Training,4270,UPI,Job-related skills training,VCH2077,PRJ-IT-03,Approved
+EMP011,Meera,Graphic Designer,Marketing,28/08/2026,Printing,500,Card,Printing materials for team presentation,VCH2035,PRJ-FIN-01,Rejected
+EMP023,Nandhana,Training Coordinator,HR,17/09/2026,Software,900,Card,Work-related application subscription,VCH2209,CC-HR-01,Approved
+EMP020,Jeffin,Systems Analyst,IT,10/08/2026,Office Supplies,1870,Cash,Notebooks and pens for office use,VCH2068,PRJ-IT-01,Approved
+EMP012,Diya,Software Tester,IT,17/10/2026,Office Supplies,910,Cash,Printer paper for office documents,VCH2290,CC-MKT-02,Pending
+EMP009,Karunya,Project Coordinator,Operations,21/08/2026,Travel,1420,UPI,Cab fare for site visit,VCH2027,PRJ-SAL-03,Approved
+EMP034,Anna,Business Development Associate,Sales,08/10/2026,Software,6490,Bank Transfer,Software licence for office tasks,VCH2358,PRJ-IT-01,Approved
+EMP001,Hridhya,Analyst,Finance,09/08/2026,Office Supplies,720,Card,Printer paper for office documents,VCH2001,CC-OPS-02,Pending
+EMP015,Ajith,IT Support Executive,IT,14/10/2026,Internet,489,UPI,Internet recharge for remote work,VCH2300,PRJ-SAL-02,Approved
+EMP015,Ajith,IT Support Executive,IT,21/09/2026,Training,5640,Bank Transfer,Compliance training for employees,VCH2177,CC-MKT-02,Approved
+EMP011,Meera,Graphic Designer,Marketing,07/09/2026,Office Supplies,320,Card,Notebooks and pens for office use,VCH2166,PRJ-SAL-03,Pending
+EMP008,Jeslin,HR Coordinator,HR,28/09/2026,Training,2100,Card,Job-related skills training,VCH2158,PRJ-FIN-01,Approved
+EMP012,Diya,Software Tester,IT,23/08/2026,Accommodation,6940,Card,Accommodation for outstation site visit,VCH2038,PRJ-IT-02,Approved
+EMP026,Emi,Accounts Assistant,Finance,05/08/2026,Fuel,1680,Bank Transfer,Fuel used during client visit,VCH2094,PRJ-FIN-02,Pending
+EMP026,Emi,Accounts Assistant,Finance,10/09/2026,Accommodation,4680,Bank Transfer,Accommodation for outstation site visit,VCH2221,PRJ-IT-02,Approved
+EMP010,Devika Das,Business Analyst,Finance,26/08/2026,Meals,1310,UPI,Dinner during late working hours,VCH2033,CC-OPS-02,Rejected
+EMP032,Namitha,Marketing Analyst,Marketing,10/09/2026,Fuel,2720,Cash,Fuel for official site visit,VCH2239,PRJ-IT-01,Approved
+EMP007,Shahla,Finance Associate,Finance,08/10/2026,Accommodation,6900,Cash,Accommodation during work-related training,VCH2272,PRJ-FIN-01,Approved
+EMP006,Rushda,Marketing Associate,Marketing,01/09/2026,Printing,1600,UPI,Printing materials for team presentation,VCH2149,CC-FIN-03,Approved
+EMP033,Bala,Admin Assistant,Administration,17/08/2026,Training,3580,Cash,Technical workshop for project skills,VCH2124,PRJ-IT-01,Approved
+EMP020,Jeffin,Systems Analyst,IT,24/10/2026,Fuel,600,UPI,Fuel used during client visit,VCH2317,PRJ-FIN-01,Approved
+EMP010,Devika Das,Business Analyst,Finance,14/08/2026,Meals,810,Card,Meal during official travel,VCH2031,PRJ-IT-02,Approved
+EMP024,Bhavana,Project Analyst,Operations,20/09/2026,Internet,1039,Card,Home internet used for work,VCH2212,CC-HR-02,Approved
+EMP025,Divya,Content Associate,Marketing,23/08/2026,Travel,2020,Bank Transfer,Train fare for official work,VCH2092,CC-HR-02,Approved
+EMP012,Diya,Software Tester,IT,24/08/2026,Software,1200,UPI,Work-related application subscription,VCH2039,PRJ-FIN-02,Approved
+EMP017,Shabir,Software Developer,IT,08/10/2026,Internet,419,Cash,Home internet used for work,VCH2306,CC-OPS-01,Pending
+EMP011,Meera,Graphic Designer,Marketing,21/09/2026,Software,1830,Cash,Work-related application subscription,VCH2168,CC-HR-02,Pending
+EMP022,Nandana,Admin Executive,Administration,21/09/2026,Travel,2550,Card,Airport transfer for business trip,VCH2207,PRJ-SAL-02,Approved
+EMP003,Sarika,Software Developer,IT,04/08/2026,Meals,1140,UPI,Dinner during late working hours,VCH2006,CC-MKT-01,Pending
+EMP013,Amit,Accountant,Finance,26/10/2026,Office Supplies,770,UPI,Folders and files for record keeping,VCH2295,CC-OPS-02,Approved
+EMP010,Devika Das,Business Analyst,Finance,17/10/2026,Meals,1240,Cash,Meal during official travel,VCH2283,PRJ-SAL-02,Approved
+EMP030,Ashmin,Customer Support Executive,Customer Support,04/08/2026,Internet,1619,UPI,Mobile data for official work,VCH2108,PRJ-FIN-02,Approved
+EMP015,Ajith,IT Support Executive,IT,06/08/2026,Printing,240,UPI,Printing forms for office use,VCH2049,CC-FIN-03,Pending
+EMP030,Ashmin,Customer Support Executive,Customer Support,01/10/2026,Internet,1769,Cash,Internet recharge for remote work,VCH2346,PRJ-IT-02,Pending
+EMP013,Amit,Accountant,Finance,12/10/2026,Accommodation,4420,Bank Transfer,Hotel stay for client meeting,VCH2293,PRJ-SAL-01,Pending
+EMP014,Bilal,Sales Associate,Sales,11/09/2026,Communication,1500,Cash,Courier of work-related documents,VCH2175,PRJ-SAL-02,Approved
+EMP034,Anna,Business Development Associate,Sales,15/08/2026,Software,3680,UPI,Security software for work computer,VCH2128,CC-HR-02,Approved
+EMP032,Namitha,Marketing Analyst,Marketing,18/08/2026,Meals,280,Bank Transfer,Meal during official travel,VCH2119,PRJ-SAL-02,Approved
+EMP007,Shahla,Finance Associate,Finance,28/10/2026,Accommodation,4720,UPI,Hotel stay during official travel,VCH2275,PRJ-FIN-02,Approved
+EMP007,Shahla,Finance Associate,Finance,11/10/2026,Printing,2780,Bank Transfer,Printing office documents,VCH2273,PRJ-SAL-01,Approved
+EMP004,Divya Dharshini,Sales Executive,Sales,27/08/2026,Communication,900,Card,Communication expenses for client coordination,VCH2013,CC-HR-01,Approved
+EMP005,Ajas,Operations Executive,Operations,18/10/2026,Meals,290,Cash,Meal during official travel,VCH2264,PRJ-IT-01,Approved
+EMP017,Shabir,Software Developer,IT,17/09/2026,Software,-1800,Card,Software used for project work,VCH2364,PRJ-IT-04,Approved
+EMP014,Bilal,Sales Associate,Sales,18/10/2026,Training,3920,UPI,Technical workshop for project skills,VCH2298,CC-OPS-02,Approved
+EMP022,Nandana,Admin Executive,Administration,26/09/2026,Software,1130,Bank Transfer,Software used for project work,VCH2208,PRJ-IT-01,Pending
+EMP004,Divya Dharshini,Sales Executive,Sales,18/10/2026,Communication,560,Card,Mobile charges for official calls,VCH2259,PRJ-IT-02,Rejected
+EMP017,Shabir,Software Developer,IT,28/09/2026,Communication,310,UPI,Phone and data charges for office work,VCH2189,PRJ-IT-03,Pending
+EMP016,Ajmal,Operations Associate,Operations,28/09/2026,Internet,469,Card,Home internet used for work,VCH2185,CC-MKT-02,Pending
+EMP033,Bala,Admin Assistant,Administration,19/10/2026,Printing,2960,Cash,Printing forms for office use,VCH2355,PRJ-IT-01,Pending
+EMP006,Rushda,Marketing Associate,Marketing,10/09/2026,Accommodation,4730,Card,Accommodation during work-related training,VCH2150,PRJ-IT-01,Approved
+EMP028,Parvathi,Office Administrator,Administration,10/08/2026,Training,5840,Cash,Professional development course,VCH2101,CC-MKT-02,Approved
+EMP025,Divya,Content Associate,Marketing,18/10/2026,Software,4470,Card,Design tool used for company work,VCH2331,PRJ-SAL-01,Approved
+EMP012,Diya,Software Tester,IT,26/08/2026,Communication,730,UPI,Phone and data charges for office work,VCH2040,CC-HR-02,Approved
+EMP005,Ajas,Operations Executive,Operations,08/08/2026,Communication,1120,Cash,Business phone recharge,VCH2015,PRJ-IT-03,Approved
+EMP010,Devika Das,Business Analyst,Finance,18/10/2026,Communication,1570,Card,Phone and data charges for office work,VCH2284,PRJ-FIN-01,Approved
+EMP013,Amit,Accountant,Finance,07/08/2026,Office Supplies,820,Bank Transfer,Stationery for daily office work,VCH2041,CC-OPS-02,Approved
+EMP031,Vismaya,Training Associate,HR,22/09/2026,Software,5250,Bank Transfer,Work-related application subscription,VCH2237,PRJ-IT-01,Approved
+EMP008,Jeslin,HR Coordinator,HR,01/08/2026,Internet,1009,UPI,Home internet used for work,VCH2021,CC-FIN-03,Approved
+EMP002,Devika.M,HR Executive,HR,05/10/2026,Internet,799,Card,Internet access for online meetings,VCH2254,PRJ-IT-02,Approved
+EMP027,Basil,IT Executive,IT,28/09/2026,Accommodation,7050,Card,Accommodation during work-related training,VCH2224,CC-HR-02,Rejected
+EMP034,Anna,Business Development Associate,Sales,07/08/2026,Accommodation,3040,UPI,Accommodation during work-related training,VCH2127,PRJ-SAL-02,Pending
+EMP024,Bhavana,Project Analyst,Operations,25/08/2026,Travel,4110,UPI,Airport transfer for business trip,VCH2087,PRJ-SAL-01,Pending
+EMP020,Jeffin,Systems Analyst,IT,07/10/2026,Communication,280,UPI,Communication expenses for client coordination,VCH2316,CC-OPS-01,Pending
+EMP006,Rushda,Marketing Associate,Marketing,08/10/2026,Accommodation,2540,UPI,Accommodation for outstation site visit,VCH2266,CC-HR-01,Approved
+EMP015,Ajith,IT Support Executive,IT,18/08/2026,Printing,850,UPI,Printing training materials,VCH2051,CC-OPS-01,Pending
+EMP015,Ajith,IT Support Executive,IT,23/09/2026,Printing,1800,Cash,Printing forms for office use,VCH2178,PRJ-IT-03,Pending
+EMP027,Basil,IT Executive,IT,24/10/2026,Office Supplies,1560,Cash,Stationery for daily office work,VCH2336,PRJ-FIN-02,Approved
+EMP015,Ajith,IT Support Executive,IT,27/10/2026,Training,3910,Bank Transfer,Professional development course,VCH2301,CC-FIN-03,Rejected
+EMP024,Bhavana,Project Analyst,Operations,27/08/2026,Communication,490,Card,Mobile charges for official calls,VCH2088,CC-HR-01,Pending
+EMP024,Bhavana,Project Analyst,Operations,09/08/2026,Printing,1490,UPI,Printing office documents,VCH2085,PRJ-FIN-01,Pending
+EMP024,Bhavana,Project Analyst,Operations,25/10/2026,Fuel,1430,Bank Transfer,Fuel for business travel,VCH2327,CC-MKT-01,Approved
+EMP025,Divya,Content Associate,Marketing,09/08/2026,Internet,1359,Bank Transfer,Internet access for online meetings,VCH2090,PRJ-SAL-01,Approved
+EMP029,Albin,Logistics Coordinator,Operations,06/10/2026,Software,1930,Bank Transfer,Software licence for office tasks,VCH2341,CC-FIN-03,Pending
+EMP028,Parvathi,Office Administrator,Administration,14/09/2026,Software,6110,Bank Transfer,Software licence for office tasks,VCH2229,PRJ-IT-01,Approved
+EMP034,Anna,Business Development Associate,Sales,18/10/2026,Software,4910,Bank Transfer,Design tool used for company work,VCH2362,CC-HR-02,Approved
+EMP006,Rushda,Marketing Associate,Marketing,27/09/2026,Travel,1830,Bank Transfer,Train fare for official work,VCH2152,PRJ-SAL-02,Approved
+EMP031,Vismaya,Training Associate,HR,24/08/2026,Internet,1559,UPI,Internet access for online meetings,VCH2115,PRJ-SAL-01,Rejected
+EMP017,Shabir,Software Developer,IT,06/09/2026,Software,4280,Cash,Security software for work computer,VCH2188,PRJ-IT-01,Rejected
+EMP021,Sanaya,Marketing Executive,Marketing,12/09/2026,Software,2910,UPI,Software used for project work,VCH2201,CC-MKT-01,Approved
+EMP004,Divya Dharshini,Sales Executive,Sales,16/09/2026,Fuel,480,UPI,Fuel for business travel,VCH2140,CC-OPS-02,Pending
+EMP013,Amit,Accountant,Finance,25/10/2026,Internet,1089,Card,Home internet used for work,VCH2294,PRJ-SAL-02,Pending
+EMP021,Sanaya,Marketing Executive,Marketing,24/10/2026,Printing,2120,UPI,Printing forms for office use,VCH2319,CC-OPS-02,Pending
+EMP033,Bala,Admin Assistant,Administration,09/08/2026,Training,4280,UPI,Job-related skills training,VCH2122,CC-OPS-01,Approved
+EMP014,Bilal,Sales Associate,Sales,26/08/2026,Travel,720,Bank Transfer,Cab fare for site visit,VCH2048,PRJ-FIN-01,Approved
+EMP017,Shabir,Software Developer,IT,10/08/2026,Office Supplies,720,UPI,Printer paper for office documents,VCH2056,PRJ-FIN-02,Approved
+EMP010,Devika Das,Business Analyst,Finance,14/09/2026,Accommodation,6350,Card,Overnight stay for official project work,VCH2163,CC-HR-02,Rejected
+EMP024,Bhavana,Project Analyst,Operations,22/09/2026,Software,4080,Cash,Work-related application subscription,VCH2213,PRJ-IT-03,Approved
+EMP012,Diya,Software Tester,IT,13/10/2026,Training,2770,Bank Transfer,Compliance training for employees,VCH2288,PRJ-IT-02,Approved
+EMP005,Ajas,Operations Executive,Operations,03/09/2026,Communication,1070,Card,Business phone recharge,VCH2144,CC-FIN-03,Approved
+EMP028,Parvathi,Office Administrator,Administration,01/09/2026,Fuel,2210,Card,Fuel for travel between office locations,VCH2225,CC-HR-02,Approved
+EMP030,Ashmin,Customer Support Executive,Customer Support,28/08/2026,Communication,670,Bank Transfer,Phone and data charges for office work,VCH2111,CC-FIN-03,Approved
+EMP027,Basil,IT Executive,IT,23/09/2026,Fuel,930,Cash,Fuel for travel between office locations,VCH2223,PRJ-IT-01,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,21/08/2026,Meals,1340,Card,Working lunch for project discussion,VCH2073,CC-OPS-02,Approved
+EMP003,Sarika,Software Developer,IT,24/09/2026,Training,7380,Bank Transfer,Technical workshop for project skills,VCH2139,PRJ-SAL-03,Approved
+EMP023,Nandhana,Training Coordinator,HR,26/10/2026,Travel,2530,UPI,Travel for client meeting,VCH2324,CC-MKT-02,Approved
+EMP025,Divya,Content Associate,Marketing,12/08/2026,Office Supplies,410,Cash,Notebooks and pens for office use,VCH2091,PRJ-IT-01,Rejected
+EMP022,Nandana,Admin Executive,Administration,24/08/2026,Software,2690,UPI,Software licence for office tasks,VCH2078,PRJ-FIN-02,Approved
+EMP003,Sarika,Software Developer,IT,03/10/2026,Printing,2650,Bank Transfer,Printing materials for team presentation,VCH2257,PRJ-SAL-03,Approved
+EMP011,Meera,Graphic Designer,Marketing,07/10/2026,Printing,2760,Bank Transfer,Printing materials for team presentation,VCH2287,CC-MKT-02,Approved
+EMP034,Anna,Business Development Associate,Sales,23/09/2026,Software,810,Card,Security software for work computer,VCH2247,PRJ-FIN-01,Approved
+EMP008,Jeslin,HR Coordinator,HR,11/09/2026,Meals,1370,UPI,Lunch during client meeting,VCH2155,PRJ-IT-01,Rejected
+EMP019,Abhishek,Finance Executive,Finance,14/08/2026,Internet,1129,Card,Mobile data for official work,VCH2065,PRJ-IT-01,Approved
+EMP025,Divya,Content Associate,Marketing,06/09/2026,Software,1290,Cash,Work-related application subscription,VCH2216,PRJ-IT-02,Pending
+EMP008,Jeslin,HR Coordinator,HR,26/09/2026,Meals,1340,Cash,Team lunch during office work,VCH2157,PRJ-SAL-02,Approved
+EMP003,Sarika,Software Developer,IT,03/08/2026,Training,7180,Cash,Professional development course,VCH2005,CC-MKT-02,Approved
+EMP011,Meera,Graphic Designer,Marketing,25/08/2026,Office Supplies,570,Bank Transfer,Notebooks and pens for office use,VCH2034,CC-HR-01,Approved
+EMP017,Shabir,Software Developer,IT,25/10/2026,Accommodation,5620,Bank Transfer,Hotel stay for client meeting,VCH2310,PRJ-IT-02,Rejected
+EMP016,Ajmal,Operations Associate,Operations,not-a-date,Travel,450,UPI,Cab fare for site visit,VCH2363,PRJ-FIN-03,Pending
+EMP016,Ajmal,Operations Associate,Operations,10/09/2026,Accommodation,4090,UPI,Accommodation for outstation site visit,VCH2182,PRJ-SAL-03,Approved
+EMP002,Devika.M,HR Executive,HR,28/10/2026,Training,6670,Cash,Excel training for office work,VCH2256,PRJ-IT-01,Rejected
+EMP023,Nandhana,Training Coordinator,HR,25/08/2026,Software,1010,Cash,Work-related application subscription,VCH2084,CC-OPS-01,Approved
+EMP019,Abhishek,Finance Executive,Finance,02/09/2026,Travel,280,Card,Cab fare for site visit,VCH2192,PRJ-SAL-01,Pending
+EMP033,Bala,Admin Assistant,Administration,24/09/2026,Meals,1010,Cash,Dinner during late working hours,VCH2244,CC-HR-01,Approved
+EMP022,Nandana,Admin Executive,Administration,01/10/2026,Internet,1579,Bank Transfer,Home internet used for work,VCH2321,PRJ-FIN-02,Pending
+EMP014,Bilal,Sales Associate,Sales,21/08/2026,Training,3080,Cash,Compliance training for employees,VCH2047,CC-MKT-01,Rejected
+EMP008,Jeslin,HR Coordinator,HR,16/08/2026,Communication,1180,Card,Courier of work-related documents,VCH2024,PRJ-IT-01,Pending
+EMP032,Namitha,Marketing Analyst,Marketing,04/08/2026,Internet,759,UPI,Internet recharge for remote work,VCH2116,PRJ-IT-03,Pending
+EMP014,Bilal,Sales Associate,Sales,17/08/2026,Travel,3660,Cash,Train fare for official work,VCH2045,CC-FIN-03,Approved
+EMP025,Divya,Content Associate,Marketing,16/10/2026,Software,5240,UPI,Design tool used for company work,VCH2330,PRJ-FIN-02,Approved
+EMP018,Hrishikesh,HR Analyst,HR,17/08/2026,Training,7380,Cash,Job-related skills training,VCH2062,CC-MKT-02,Rejected
+EMP031,Vismaya,Training Associate,HR,19/08/2026,Office Supplies,590,UPI,Printer paper for office documents,VCH2113,PRJ-FIN-01,Approved
+EMP028,Parvathi,Office Administrator,Administration,16/10/2026,Internet,1459,Cash,Home internet used for work,VCH2339,PRJ-SAL-01,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,19/08/2026,Fuel,2670,UPI,Fuel used during client visit,VCH2072,PRJ-SAL-01,Rejected
+EMP008,Jeslin,HR Coordinator,HR,16/08/2026,Communication,1180,Card,Courier of work-related documents,VCH2024,PRJ-IT-01,Pending
+EMP016,Ajmal,Operations Associate,Operations,02/09/2026,Internet,1299,UPI,Internet access for online meetings,VCH2181,PRJ-IT-02,Approved
+EMP009,Karunya,Project Coordinator,Operations,13/08/2026,Training,1210,Card,Excel training for office work,VCH2026,PRJ-FIN-01,Approved
+EMP033,Bala,Admin Assistant,Administration,24/09/2026,Meals,1010,Cash,Dinner during late working hours,VCH2244,CC-HR-01,Approved
+EMP031,Vismaya,Training Associate,HR,24/08/2026,Internet,1559,UPI,Internet access for online meetings,VCH2115,PRJ-SAL-01,Rejected
+EMP004,Divya Dharshini,Sales Executive,Sales,25/10/2026,Travel,4500,UPI,Airport transfer for business trip,VCH2260,PRJ-IT-03,Approved
+EMP012,Diya,Software Tester,IT,09/09/2026,Accommodation,6390,Cash,Accommodation for outstation site visit,VCH2171,PRJ-SAL-02,Approved
+EMP011,Meera,Graphic Designer,Marketing,07/10/2026,Printing,2760,Bank Transfer,Printing materials for team presentation,VCH2287,CC-MKT-02,Approved
+EMP034,Anna,Business Development Associate,Sales,15/09/2026,Travel,630,Bank Transfer,Train fare for official work,VCH2246,PRJ-IT-02,Pending
+EMP005,Ajas,Operations Executive,Operations,21/10/2026,Communication,170,Bank Transfer,Business phone recharge,VCH2265,PRJ-IT-02,Approved
+EMP006,Rushda,Marketing Associate,Marketing,22/10/2026,Fuel,3170,UPI,Fuel for travel between office locations,VCH2269,PRJ-SAL-01,Approved
+EMP023,Nandhana,Training Coordinator,HR,16/08/2026,Printing,330,UPI,Printing materials for team presentation,VCH2083,PRJ-IT-03,Pending
+EMP029,Albin,Logistics Coordinator,Operations,16/08/2026,Office Supplies,1070,Card,Notebooks and pens for office use,VCH2105,PRJ-FIN-01,Pending
+EMP004,Divya Dharshini,Sales Executive,Sales,25/09/2026,Training,1570,Cash,Compliance training for employees,VCH2143,CC-OPS-01,Approved
+EMP028,Parvathi,Office Administrator,Administration,17/10/2026,Printing,1450,Bank Transfer,Printing office documents,VCH2340,CC-MKT-01,Pending
+EMP002,Devika.M,HR Executive,HR,03/10/2026,Accommodation,3560,Bank Transfer,Hotel stay for client meeting,VCH2252,PRJ-IT-01,Pending
+EMP002,Devika.M,HR Executive,HR,25/09/2026,Communication,940,UPI,Courier of work-related documents,VCH2137,CC-HR-02,Approved
+EMP031,Vismaya,Training Associate,HR,21/09/2026,Meals,1030,Card,Refreshments for team meeting,VCH2236,CC-OPS-01,Approved
+EMP008,Jeslin,HR Coordinator,HR,13/10/2026,Communication,400,Card,Communication expenses for client coordination,VCH2278,PRJ-FIN-02,Approved
+EMP025,Divya,Content Associate,Marketing,12/10/2026,Printing,1140,Bank Transfer,Printing forms for office use,VCH2329,PRJ-SAL-03,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,25/09/2026,Accommodation,6390,Cash,Overnight stay for official project work,VCH2203,CC-OPS-01,Approved
+EMP028,Parvathi,Office Administrator,Administration,10/08/2026,Training,5840,Cash,Professional development course,VCH2101,CC-MKT-02,Approved
+EMP019,Abhishek,Finance Executive,Finance,13/08/2026,Software,6320,Cash,Design tool used for company work,VCH2064,PRJ-IT-02,Pending
+EMP009,Karunya,Project Coordinator,Operations,22/08/2026,Fuel,1510,Cash,Fuel for official site visit,VCH2028,CC-HR-01,Approved
+EMP009,Karunya,Project Coordinator,Operations,12/08/2026,Accommodation,7090,Bank Transfer,Accommodation for outstation site visit,VCH2025,PRJ-SAL-01,Approved
+EMP029,Albin,Logistics Coordinator,Operations,26/10/2026,Communication,1330,Bank Transfer,Courier of work-related documents,VCH2345,PRJ-FIN-01,Approved
+EMP014,Bilal,Sales Associate,Sales,03/09/2026,Communication,470,UPI,Courier of work-related documents,VCH2174,CC-MKT-01,Approved
+EMP002,Devika.M,HR Executive,HR,13/09/2026,Training,2930,Card,Excel training for office work,VCH2134,PRJ-SAL-01,Pending
+EMP032,Namitha,Marketing Analyst,Marketing,05/08/2026,Communication,1550,Cash,Business phone recharge,VCH2117,CC-HR-02,Approved
+EMP014,Bilal,Sales Associate,Sales,06/10/2026,Printing,2630,Bank Transfer,Printing materials for team presentation,VCH2297,PRJ-IT-01,Rejected
+EMP008,Jeslin,HR Coordinator,HR,24/09/2026,Printing,2070,UPI,Printing forms for office use,VCH2156,PRJ-FIN-01,Approved
+EMP032,Namitha,Marketing Analyst,Marketing,08/08/2026,Internet,1429,Cash,Internet access for online meetings,VCH2118,PRJ-IT-02,Approved
+EMP007,Shahla,Finance Associate,Finance,27/10/2026,Travel,500,Cash,Taxi fare for office commute,VCH2274,PRJ-SAL-02,Pending
+EMP007,Shahla,Finance Associate,Finance,10/09/2026,Printing,1090,Card,Printing materials for team presentation,VCH2153,PRJ-IT-01,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,25/10/2026,Meals,630,Bank Transfer,Dinner during late working hours,VCH2320,PRJ-IT-03,Pending
+EMP024,Bhavana,Project Analyst,Operations,25/08/2026,Travel,4110,UPI,Cab fare for site visit,VCH2087,PRJ-SAL-01,Pending
+EMP011,Meera,Graphic Designer,Marketing,22/09/2026,Travel,920,UPI,Train fare for official work,VCH2169,PRJ-IT-01,Pending
+EMP002,Devika.M,HR Executive,HR,15/09/2026,Printing,420,Cash,Printing project reports,VCH2135,CC-MKT-02,Rejected
+EMP016,Ajmal,Operations Associate,Operations,11/10/2026,Printing,2380,Cash,Printing project reports,VCH2304,PRJ-FIN-02,Pending
+EMP019,Abhishek,Finance Executive,Finance,17/10/2026,Travel,3110,Bank Transfer,Cab fare for site visit,VCH2315,CC-MKT-02,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,23/08/2026,Fuel,3340,Cash,Fuel used during client visit,VCH2074,PRJ-SAL-02,Pending
+EMP033,Bala,Admin Assistant,Administration,21/08/2026,Fuel,300,Bank Transfer,Fuel used during client visit,VCH2125,PRJ-FIN-01,Approved
+EMP032,Namitha,Marketing Analyst,Marketing,21/08/2026,Meals,760,UPI,Lunch during client meeting,VCH2120,PRJ-SAL-02,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,22/08/2026,Meals,560,UPI,Team lunch during office work,VCH2369,CC-HR-04,Approved
+EMP010,Devika Das,Business Analyst,Finance,21/09/2026,Training,6570,Cash,Professional development course,VCH2164,PRJ-FIN-02,Approved
+EMP032,Namitha,Marketing Analyst,Marketing,07/10/2026,Communication,1310,Cash,Communication expenses for client coordination,VCH2352,CC-FIN-03,Approved
+EMP023,Nandhana,Training Coordinator,HR,22/10/2026,Printing,280,Card,Printing forms for office use,VCH2323,CC-HR-02,Approved
+EMP008,Jeslin,HR Coordinator,HR,04/08/2026,Meals,390,Bank Transfer,Team lunch during office work,VCH2022,PRJ-IT-01,Approved
+EMP005,Ajas,Operations Executive,Operations,19/09/2026,Accommodation,4740,Card,Hotel stay for client meeting,VCH2146,CC-HR-01,Rejected
+EMP007,Shahla,Finance Associate,Finance,11/09/2026,Training,6430,Cash,Compliance training for employees,VCH2154,CC-MKT-01,Rejected
+EMP023,Nandhana,Training Coordinator,HR,12/08/2026,Printing,1040,Bank Transfer,Printing materials for team presentation,VCH2082,PRJ-SAL-02,Approved
+EMP018,Hrishikesh,HR Analyst,HR,25/10/2026,Training,6320,Bank Transfer,Technical workshop for project skills,VCH2313,CC-OPS-02,Approved
+EMP011,Meera,Graphic Designer,Marketing,01/10/2026,Accommodation,5010,Bank Transfer,Hotel stay during official travel,VCH2286,PRJ-FIN-02,Pending
+EMP029,Albin,Logistics Coordinator,Operations,02/09/2026,Printing,2540,UPI,Printing training materials,VCH2230,PRJ-SAL-03,Rejected
+EMP017,Shabir,Software Developer,IT,15/10/2026,Training,7290,Card,Job-related skills training,VCH2309,PRJ-IT-03,Approved
+EMP006,Rushda,Marketing Associate,Marketing,01/09/2026,Printing,1600,UPI,Printing materials for team presentation,VCH2149,CC-FIN-03,Approved
+EMP029,Albin,Logistics Coordinator,Operations,24/08/2026,Software,3300,UPI,Software used for project work,VCH2106,PRJ-IT-02,Approved
+EMP029,Albin,Logistics Coordinator,Operations,15/10/2026,Travel,2360,Card,Cab fare for site visit,VCH2343,CC-HR-02,Pending
+EMP009,Karunya,Project Coordinator,Operations,27/09/2026,Fuel,990,Bank Transfer,Fuel for business travel,VCH2161,CC-OPS-01,Pending
+EMP029,Albin,Logistics Coordinator,Operations,12/10/2026,Travel,2930,UPI,Airport transfer for business trip,VCH2342,PRJ-SAL-03,Pending
+EMP028,Parvathi,Office Administrator,Administration,13/09/2026,Accommodation,1850,UPI,Hotel stay during official travel,VCH2228,CC-MKT-01,Approved
+EMP020,Jeffin,Systems Analyst,IT,15/09/2026,Office Supplies,1260,Bank Transfer,Folders and files for record keeping,VCH2199,PRJ-FIN-02,Pending
+EMP006,Rushda,Marketing Associate,Marketing,13/08/2026,Accommodation,7210,Cash,Hotel stay for client meeting,VCH2017,PRJ-SAL-03,Rejected
+EMP005,Ajas,Operations Executive,Operations,06/09/2026,Office Supplies,1330,Cash,Stationery for daily office work,VCH2145,CC-MKT-01,Pending
+EMP003,Sarika,Software Developer,IT,12/08/2026,Communication,1020,Card,Business phone recharge,VCH2007,CC-HR-02,Approved
+EMP025,Divya,Content Associate,Marketing,21/10/2026,Meals,1330,Cash,Meal during official travel,VCH2332,PRJ-IT-02,Pending
+EMP008,Jeslin,HR Coordinator,HR,02/10/2026,Printing,460,Card,Printing training materials,VCH2276,PRJ-IT-02,Approved
+EMP012,Diya,Software Tester,IT,10/08/2026,Fuel,2790,Card,Fuel for business travel,VCH2036,CC-MKT-01,Approved
+EMP017,Shabir,Software Developer,IT,09/10/2026,Travel,3660,UPI,Train fare for official work,VCH2307,CC-MKT-01,Approved
+EMP001,Hridhya,Analyst,Finance,13/10/2026,Office Supplies,440,UPI,Notebooks and pens for office use,VCH2250,CC-HR-01,Approved
+EMP033,Bala,Admin Assistant,Administration,09/08/2026,Training,4280,UPI,Job-related skills training,VCH2122,CC-OPS-01,Approved
+EMP005,Ajas,Operations Executive,Operations,09/10/2026,Software,2250,Cash,Design tool used for company work,VCH2263,PRJ-SAL-03,Pending
+EMP010,Devika Das,Business Analyst,Finance,18/10/2026,Communication,1570,Card,Communication expenses for client coordination,VCH2284,PRJ-FIN-01,Approved
+EMP020,Jeffin,Systems Analyst,IT,03/08/2026,Fuel,3470,Cash,Fuel used during client visit,VCH2067,PRJ-SAL-03,Rejected
+EMP020,Jeffin,Systems Analyst,IT,15/09/2026,Office Supplies,1260,Bank Transfer,Desk supplies for employee work,VCH2199,PRJ-FIN-02,Pending
+EMP030,Ashmin,Customer Support Executive,Customer Support,14/09/2026,Fuel,3130,UPI,Fuel for official site visit,VCH2234,PRJ-SAL-03,Approved
+EMP004,Divya Dharshini,Sales Executive,Sales,12/08/2026,Meals,610,Card,Refreshments for team meeting,VCH2010,CC-HR-01,Approved
+EMP002,Devika.M,HR Executive,HR,18/08/2026,Travel,4130,Card,Travel for client meeting,VCH2004,CC-OPS-01,Approved
+EMP030,Ashmin,Customer Support Executive,Customer Support,12/09/2026,Fuel,2140,UPI,Fuel for official site visit,VCH2233,PRJ-IT-02,Approved
+EMP010,Devika Das,Business Analyst,Finance,21/09/2026,Training,6570,Cash,Professional development course,VCH2164,PRJ-FIN-02,Approved
+EMP001,Hridhya,Analyst,Finance,19/10/2026,Fuel,900,Cash,Fuel for official site visit,VCH2251,CC-MKT-02,Approved
+EMP030,Ashmin,Customer Support Executive,Customer Support,19/08/2026,Internet,609,Card,Home internet used for work,VCH2110,PRJ-IT-02,Pending
+EMP012,Diya,Software Tester,IT,22/10/2026,Training,5910,Cash,Compliance training for employees,VCH2291,CC-MKT-01,Approved
+EMP031,Vismaya,Training Associate,HR,09/10/2026,Printing,600,Cash,Printing training materials,VCH2348,CC-HR-01,Approved
+EMP031,Vismaya,Training Associate,HR,24/09/2026,Accommodation,2170,Cash,Hotel stay for client meeting,VCH2238,PRJ-FIN-01,Pending
+EMP006,Rushda,Marketing Associate,Marketing,26/10/2026,Internet,1549,Card,Mobile data for official work,VCH2270,CC-HR-02,Approved
+EMP013,Amit,Accountant,Finance,05/10/2026,Internet,499,Cash,Mobile data for official work,VCH2292,CC-HR-02,Approved
+EMP012,Diya,Software Tester,IT,16/10/2026,Internet,1629,Card,Internet recharge for remote work,VCH2289,CC-MKT-01,Approved
+EMP010,Devika Das,Business Analyst,Finance,08/08/2026,Travel,3690,UPI,Travel for client meeting,VCH2030,PRJ-FIN-02,Pending
+EMP004,Divya Dharshini,Sales Executive,Sales,09/08/2026,Software,4290,Cash,Software used for project work,VCH2009,CC-OPS-02,Approved
+EMP026,Emi,Accounts Assistant,Finance,09/10/2026,Communication,200,UPI,Communication expenses for client coordination,VCH2333,PRJ-IT-01,Pending
+EMP020,Jeffin,Systems Analyst,IT,01/09/2026,Communication,1190,Bank Transfer,Mobile charges for official calls,VCH2196,CC-OPS-02,Approved
+EMP010,Devika Das,Business Analyst,Finance,04/09/2026,Accommodation,5970,Cash,Accommodation during work-related training,VCH2162,CC-MKT-02,Approved
+EMP025,Divya,Content Associate,Marketing,01/09/2026,Office Supplies,1020,Bank Transfer,Desk supplies for employee work,VCH2215,PRJ-SAL-01,Rejected
+EMP026,Emi,Accounts Assistant,Finance,18/09/2026,Software,2540,Card,Security software for work computer,VCH2222,PRJ-FIN-01,Approved
+EMP017,Shabir,Software Developer,IT,01/09/2026,Communication,1120,UPI,Business phone recharge,VCH2186,CC-MKT-02,Approved
+EMP010,Devika Das,Business Analyst,Finance,16/10/2026,Communication,860,Bank Transfer,Phone and data charges for office work,VCH2282,CC-OPS-01,Approved
+EMP021,Sanaya,Marketing Executive,Marketing,21/10/2026,Printing,2110,Bank Transfer,Printing materials for team presentation,VCH2318,PRJ-SAL-03,Rejected
+EMP022,Nandana,Admin Executive,Administration,23/09/2026,Travel,,UPI,Train fare for official work,VCH2370,PRJ-FIN-05,Pending
+EMP019,Abhishek,Finance Executive,Finance,13/09/2026,Printing,1090,Card,Printing materials for team presentation,VCH2194,PRJ-IT-02,Pending
+EMP010,Devika Das,Business Analyst,Finance,27/10/2026,Software,5860,Bank Transfer,Security software for work computer,VCH2285,PRJ-SAL-03,Pending
+EMP010,Devika Das,Business Analyst,Finance,07/08/2026,Meals,420,Bank Transfer,Lunch during client meeting,VCH2029,PRJ-FIN-02,Approved
+EMP019,Abhishek,Finance Executive,Finance,22/08/2026,Training,5760,Bank Transfer,Professional development course,VCH2066,CC-OPS-02,Approved
+EMP028,Parvathi,Office Administrator,Administration,12/10/2026,Training,5230,UPI,Job-related skills training,VCH2338,CC-MKT-02,Approved
+EMP012,Diya,Software Tester,IT,14/08/2026,Travel,3210,UPI,Cab fare for site visit,VCH2037,PRJ-FIN-01,Approved
+EMP005,Ajas,Operations Executive,Operations,09/08/2026,Meals,300,UPI,Dinner during late working hours,VCH2016,CC-OPS-02,Approved
+EMP005,Ajas,Operations Executive,Operations,26/09/2026,Internet,899,Bank Transfer,Internet access for online meetings,VCH2148,CC-HR-02,Approved
+EMP034,Anna,Business Development Associate,Sales,12/09/2026,Accommodation,2230,Cash,Overnight stay for official project work,VCH2245,PRJ-FIN-02,Approved
+EMP024,Bhavana,Project Analyst,Operations,02/09/2026,Training,1670,Cash,Technical workshop for project skills,VCH2211,PRJ-IT-02,Pending
+EMP006,Rushda,Marketing Associate,Marketing,13/10/2026,Training,8510,Cash,Job-related skills training,VCH2268,PRJ-IT-03,Pending
+EMP026,Emi,Accounts Assistant,Finance,13/10/2026,Fuel,1410,Bank Transfer,Fuel for travel between office locations,VCH2334,PRJ-SAL-03,Rejected
+EMP031,Vismaya,Training Associate,HR,26/10/2026,Printing,2630,UPI,Printing project reports,VCH2350,CC-MKT-02,Approved
+EMP025,Divya,Content Associate,Marketing,10/09/2026,Fuel,490,Cash,Fuel for business travel,VCH2217,PRJ-IT-03,Approved
+EMP009,Karunya,Project Coordinator,Operations,05/10/2026,Software,3850,Cash,Design tool used for company work,VCH2281,PRJ-FIN-02,Rejected
